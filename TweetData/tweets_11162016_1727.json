@@ -1,0 +1,3903 @@
+[
+	{
+		"id": "799015938452574209",
+		"screenname": "yeselson",
+		"name": "Richard Yeselson",
+		"created_at": "Wed Nov 16 22:26:59 +0000 2016",
+		"text": "@michaelbd @DavidKlion @chrislhayes Clinton policy agenda to them--which is **way** to their left.",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"michaelbd",
+				"davidklion",
+				"chrislhayes",
+				"clinton",
+				"policy",
+				"agenda",
+				"to",
+				"them--which",
+				"is",
+				"way",
+				"to",
+				"their",
+				"left"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015937345277952",
+		"screenname": "dhiggins63",
+		"name": "David Higgins",
+		"created_at": "Wed Nov 16 22:26:59 +0000 2016",
+		"text": "RT @atensnut: I was 35 years old when Bill Clinton, Ark. Attorney General raped me and Hillary tried to silence me.  I am now 73....it neve…",
+		"sentiment": {
+			"score": -4,
+			"comparative": -0.14814814814814814,
+			"tokens": [
+				"rt",
+				"atensnut",
+				"i",
+				"was",
+				"35",
+				"years",
+				"old",
+				"when",
+				"bill",
+				"clinton",
+				"ark",
+				"attorney",
+				"general",
+				"raped",
+				"me",
+				"and",
+				"hillary",
+				"tried",
+				"to",
+				"silence",
+				"me",
+				"",
+				"i",
+				"am",
+				"now",
+				"73it",
+				"neve"
+			],
+			"words": [
+				"",
+				"raped"
+			],
+			"positive": [],
+			"negative": [
+				"raped"
+			]
+		}
+	},
+	{
+		"id": "799015937185816576",
+		"screenname": "AmericaAvenging",
+		"name": "Avenging America",
+		"created_at": "Wed Nov 16 22:26:59 +0000 2016",
+		"text": "RT @Ian56789: Obama, Clinton, And Sanders Could Stop The Riots But They Just Watch https://t.co/ftH3yAgSXt",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.2,
+			"tokens": [
+				"rt",
+				"ian56789",
+				"obama",
+				"clinton",
+				"and",
+				"sanders",
+				"could",
+				"stop",
+				"the",
+				"riots",
+				"but",
+				"they",
+				"just",
+				"watch",
+				"httpstcofth3yagsxt"
+			],
+			"words": [
+				"riots",
+				"stop"
+			],
+			"positive": [],
+			"negative": [
+				"riots",
+				"stop"
+			]
+		}
+	},
+	{
+		"id": "799015933637296128",
+		"screenname": "heysyd",
+		"name": "Nasty Syd's Soapbox",
+		"created_at": "Wed Nov 16 22:26:58 +0000 2016",
+		"text": "RT @jonfavs: This is the same Paul Ryan who said that Hillary Clinton shouldn't have security clearance if elected President\n\nNot sure he's…",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"jonfavs",
+				"this",
+				"is",
+				"the",
+				"same",
+				"paul",
+				"ryan",
+				"who",
+				"said",
+				"that",
+				"hillary",
+				"clinton",
+				"shouldn't",
+				"have",
+				"security",
+				"clearance",
+				"if",
+				"elected",
+				"presidentnot",
+				"sure",
+				"he's"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015933238910976",
+		"screenname": "sheerinjude",
+		"name": "Jude Sheerin",
+		"created_at": "Wed Nov 16 22:26:58 +0000 2016",
+		"text": "Interesting insiders' account... Clinton campaign undone by neglect and arrogance - staffers https://t.co/j8FCEzAkUh",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"interesting",
+				"insiders'",
+				"account",
+				"clinton",
+				"campaign",
+				"undone",
+				"by",
+				"neglect",
+				"and",
+				"arrogance",
+				"-",
+				"staffers",
+				"httpstcoj8fcezakuh"
+			],
+			"words": [
+				"neglect",
+				"interesting"
+			],
+			"positive": [
+				"interesting"
+			],
+			"negative": [
+				"neglect"
+			]
+		}
+	},
+	{
+		"id": "799015930277888000",
+		"screenname": "mtnman5280",
+		"name": "Creek Johnson",
+		"created_at": "Wed Nov 16 22:26:57 +0000 2016",
+		"text": "RT @BrilliantMaps: Clinton’s America \nhttps://t.co/nyyX6UsPR9 https://t.co/9eWgEJcQwG",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"brilliantmaps",
+				"clintons",
+				"america",
+				"httpstconyyx6uspr9",
+				"httpstco9ewgejcqwg"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015929556455424",
+		"screenname": "Daniell30653742",
+		"name": "#Not My President",
+		"created_at": "Wed Nov 16 22:26:57 +0000 2016",
+		"text": "@effdot @sistermoon50 @smoothkobra Bernie is the kingpin of this!Codeword:Grassroots!These ppl are still pissed at Clinton! selfish snakes",
+		"sentiment": {
+			"score": -7,
+			"comparative": -0.4117647058823529,
+			"tokens": [
+				"effdot",
+				"sistermoon50",
+				"smoothkobra",
+				"bernie",
+				"is",
+				"the",
+				"kingpin",
+				"of",
+				"thiscodewordgrassrootsthese",
+				"ppl",
+				"are",
+				"still",
+				"pissed",
+				"at",
+				"clinton",
+				"selfish",
+				"snakes"
+			],
+			"words": [
+				"selfish",
+				"pissed"
+			],
+			"positive": [],
+			"negative": [
+				"selfish",
+				"pissed"
+			]
+		}
+	},
+	{
+		"id": "799015928386252800",
+		"screenname": "doolittlelady",
+		"name": "Carol Domansky",
+		"created_at": "Wed Nov 16 22:26:56 +0000 2016",
+		"text": "RT @TeaPainUSA: \"Giuliani Could Face Criminal Investigation?\"  Looks like the \"Swamp\" is about to overflow!  https://t.co/4FnF5k2aQe",
+		"sentiment": {
+			"score": -1,
+			"comparative": -0.05555555555555555,
+			"tokens": [
+				"rt",
+				"teapainusa",
+				"giuliani",
+				"could",
+				"face",
+				"criminal",
+				"investigation",
+				"",
+				"looks",
+				"like",
+				"the",
+				"swamp",
+				"is",
+				"about",
+				"to",
+				"overflow",
+				"",
+				"httpstco4fnf5k2aqe"
+			],
+			"words": [
+				"",
+				"like",
+				"",
+				"criminal"
+			],
+			"positive": [
+				"like"
+			],
+			"negative": [
+				"criminal"
+			]
+		}
+	},
+	{
+		"id": "799015926398144512",
+		"screenname": "Voivode_",
+		"name": "Ionutz Tepes",
+		"created_at": "Wed Nov 16 22:26:56 +0000 2016",
+		"text": "Hillary Clinton Screaming Obscenities and Throwing Objects in Election Night Meltdown - Breitbart https://t.co/gxqVbxQJIE via",
+		"sentiment": {
+			"score": -2,
+			"comparative": -0.13333333333333333,
+			"tokens": [
+				"hillary",
+				"clinton",
+				"screaming",
+				"obscenities",
+				"and",
+				"throwing",
+				"objects",
+				"in",
+				"election",
+				"night",
+				"meltdown",
+				"-",
+				"breitbart",
+				"httpstcogxqvbxqjie",
+				"via"
+			],
+			"words": [
+				"screaming"
+			],
+			"positive": [],
+			"negative": [
+				"screaming"
+			]
+		}
+	},
+	{
+		"id": "799015925915717632",
+		"screenname": "MyPlace4U",
+		"name": "My Place",
+		"created_at": "Wed Nov 16 22:26:56 +0000 2016",
+		"text": "RT @samsteinhp: Comey hurt the campaign. But operatives in midwest battlegrounds say neglect and arrogance hurt Clinton more https://t.co/P…",
+		"sentiment": {
+			"score": -6,
+			"comparative": -0.3157894736842105,
+			"tokens": [
+				"rt",
+				"samsteinhp",
+				"comey",
+				"hurt",
+				"the",
+				"campaign",
+				"but",
+				"operatives",
+				"in",
+				"midwest",
+				"battlegrounds",
+				"say",
+				"neglect",
+				"and",
+				"arrogance",
+				"hurt",
+				"clinton",
+				"more",
+				"httpstcop"
+			],
+			"words": [
+				"hurt",
+				"neglect",
+				"hurt"
+			],
+			"positive": [],
+			"negative": [
+				"hurt",
+				"neglect",
+				"hurt"
+			]
+		}
+	},
+	{
+		"id": "799015923873030144",
+		"screenname": "TheBoobla",
+		"name": "Adam Kendall",
+		"created_at": "Wed Nov 16 22:26:55 +0000 2016",
+		"text": "RT @BenjaminNorton: Let's not whitewash Warren: She said nothing about Sanders, then threw her weight behind Clinton when he dropped out\nht…",
+		"sentiment": {
+			"score": -4,
+			"comparative": -0.19047619047619047,
+			"tokens": [
+				"rt",
+				"benjaminnorton",
+				"let's",
+				"not",
+				"whitewash",
+				"warren",
+				"she",
+				"said",
+				"nothing",
+				"about",
+				"sanders",
+				"then",
+				"threw",
+				"her",
+				"weight",
+				"behind",
+				"clinton",
+				"when",
+				"he",
+				"dropped",
+				"outht"
+			],
+			"words": [
+				"dropped",
+				"whitewash"
+			],
+			"positive": [],
+			"negative": [
+				"dropped",
+				"whitewash"
+			]
+		}
+	},
+	{
+		"id": "799015921796972545",
+		"screenname": "Freebies4Taxis",
+		"name": "Freebies 4 Taxis",
+		"created_at": "Wed Nov 16 22:26:55 +0000 2016",
+		"text": "Snag that free Clinton Hotel Miami Beach taxi. Lyft strikes back at uber with promo code PIGLET for free ride credit. Happy2help.",
+		"sentiment": {
+			"score": 1,
+			"comparative": 0.045454545454545456,
+			"tokens": [
+				"snag",
+				"that",
+				"free",
+				"clinton",
+				"hotel",
+				"miami",
+				"beach",
+				"taxi",
+				"lyft",
+				"strikes",
+				"back",
+				"at",
+				"uber",
+				"with",
+				"promo",
+				"code",
+				"piglet",
+				"for",
+				"free",
+				"ride",
+				"credit",
+				"happy2help"
+			],
+			"words": [
+				"free",
+				"strikes",
+				"free"
+			],
+			"positive": [
+				"free",
+				"free"
+			],
+			"negative": [
+				"strikes"
+			]
+		}
+	},
+	{
+		"id": "799015920328962048",
+		"screenname": "samrakee",
+		"name": "sam",
+		"created_at": "Wed Nov 16 22:26:55 +0000 2016",
+		"text": "@stcristea THIS SOUNDS LIKE THE HILLARY CLINTON VINE https://t.co/xJZcmb2CvJ",
+		"sentiment": {
+			"score": 2,
+			"comparative": 0.2222222222222222,
+			"tokens": [
+				"stcristea",
+				"this",
+				"sounds",
+				"like",
+				"the",
+				"hillary",
+				"clinton",
+				"vine",
+				"httpstcoxjzcmb2cvj"
+			],
+			"words": [
+				"like"
+			],
+			"positive": [
+				"like"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015919737589760",
+		"screenname": "Hastin10Jessica",
+		"name": "Jessica Hastings",
+		"created_at": "Wed Nov 16 22:26:54 +0000 2016",
+		"text": "RT @KKMcKindle: Could the Electoral College elect Hillary Clinton instead of Donald Trump? - https://t.co/8PLHwTsbI2 via https://t.co/dgYgs…",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"kkmckindle",
+				"could",
+				"the",
+				"electoral",
+				"college",
+				"elect",
+				"hillary",
+				"clinton",
+				"instead",
+				"of",
+				"donald",
+				"trump",
+				"-",
+				"httpstco8plhwtsbi2",
+				"via",
+				"httpstcodgygs"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015919330721792",
+		"screenname": "eszruh",
+		"name": "Ezra Cole",
+		"created_at": "Wed Nov 16 22:26:54 +0000 2016",
+		"text": "Obama and Clinton will be pressed by media to denounce these attacks. https://t.co/RTDG1QMk25",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.23076923076923078,
+			"tokens": [
+				"obama",
+				"and",
+				"clinton",
+				"will",
+				"be",
+				"pressed",
+				"by",
+				"media",
+				"to",
+				"denounce",
+				"these",
+				"attacks",
+				"httpstcortdg1qmk25"
+			],
+			"words": [
+				"attacks",
+				"denounce"
+			],
+			"positive": [],
+			"negative": [
+				"attacks",
+				"denounce"
+			]
+		}
+	},
+	{
+		"id": "799015919167139840",
+		"screenname": "shirleyvc725",
+		"name": "Shirley Padilla",
+		"created_at": "Wed Nov 16 22:26:54 +0000 2016",
+		"text": "RT @SandraTXAS: CNN refused to report this: Hillary Physically Violent Election Night\n\nhttps://t.co/hpFtBwiUI1  \n\n#TuesdayMotivation #MAGA…",
+		"sentiment": {
+			"score": -5,
+			"comparative": -0.3333333333333333,
+			"tokens": [
+				"rt",
+				"sandratxas",
+				"cnn",
+				"refused",
+				"to",
+				"report",
+				"this",
+				"hillary",
+				"physically",
+				"violent",
+				"election",
+				"nighthttpstcohpftbwiui1",
+				"",
+				"tuesdaymotivation",
+				"maga"
+			],
+			"words": [
+				"",
+				"violent",
+				"refused"
+			],
+			"positive": [],
+			"negative": [
+				"violent",
+				"refused"
+			]
+		}
+	},
+	{
+		"id": "799015918659452928",
+		"screenname": "ManikRathee",
+		"name": "M ✊🏽",
+		"created_at": "Wed Nov 16 22:26:54 +0000 2016",
+		"text": "RT @RawStory: Mom who took a photo with Hillary Clinton while hiking is now getting death threats from Trump supporters https://t.co/bKnyKu…",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.14285714285714285,
+			"tokens": [
+				"rt",
+				"rawstory",
+				"mom",
+				"who",
+				"took",
+				"a",
+				"photo",
+				"with",
+				"hillary",
+				"clinton",
+				"while",
+				"hiking",
+				"is",
+				"now",
+				"getting",
+				"death",
+				"threats",
+				"from",
+				"trump",
+				"supporters",
+				"httpstcobknyku"
+			],
+			"words": [
+				"supporters",
+				"threats",
+				"death"
+			],
+			"positive": [
+				"supporters"
+			],
+			"negative": [
+				"threats",
+				"death"
+			]
+		}
+	},
+	{
+		"id": "799015917262802944",
+		"screenname": "afropine100",
+		"name": "Act Up Fight Back",
+		"created_at": "Wed Nov 16 22:26:54 +0000 2016",
+		"text": "RT @Khanoisseur: With a million plus vote lead, Clinton's popular vote win is unprecedented\n\nNever has so big a PV victory been trumped by…",
+		"sentiment": {
+			"score": 11,
+			"comparative": 0.4782608695652174,
+			"tokens": [
+				"rt",
+				"khanoisseur",
+				"with",
+				"a",
+				"million",
+				"plus",
+				"vote",
+				"lead",
+				"clinton's",
+				"popular",
+				"vote",
+				"win",
+				"is",
+				"unprecedentednever",
+				"has",
+				"so",
+				"big",
+				"a",
+				"pv",
+				"victory",
+				"been",
+				"trumped",
+				"by"
+			],
+			"words": [
+				"victory",
+				"big",
+				"win",
+				"popular"
+			],
+			"positive": [
+				"victory",
+				"big",
+				"win",
+				"popular"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015916528771072",
+		"screenname": "jcoppenhaver",
+		"name": "jackie coppenhaver",
+		"created_at": "Wed Nov 16 22:26:54 +0000 2016",
+		"text": "RT @Newsweek: .@monaeltahawy: “It sends a message that powerful men can sexually assault you and still be elected president” https://t.co/Y…",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"newsweek",
+				"monaeltahawy",
+				"it",
+				"sends",
+				"a",
+				"message",
+				"that",
+				"powerful",
+				"men",
+				"can",
+				"sexually",
+				"assault",
+				"you",
+				"and",
+				"still",
+				"be",
+				"elected",
+				"president",
+				"httpstcoy"
+			],
+			"words": [
+				"assault",
+				"powerful"
+			],
+			"positive": [
+				"powerful"
+			],
+			"negative": [
+				"assault"
+			]
+		}
+	},
+	{
+		"id": "799015916314955776",
+		"screenname": "shirlfior",
+		"name": "shirley fiorentino",
+		"created_at": "Wed Nov 16 22:26:54 +0000 2016",
+		"text": "RT @joncoopertweets: If u despise Jason Chaffetz as much as I do, please RT this! It's about time ethics complaint was filed against him! h…",
+		"sentiment": {
+			"score": -1,
+			"comparative": -0.04,
+			"tokens": [
+				"rt",
+				"joncoopertweets",
+				"if",
+				"u",
+				"despise",
+				"jason",
+				"chaffetz",
+				"as",
+				"much",
+				"as",
+				"i",
+				"do",
+				"please",
+				"rt",
+				"this",
+				"it's",
+				"about",
+				"time",
+				"ethics",
+				"complaint",
+				"was",
+				"filed",
+				"against",
+				"him",
+				"h"
+			],
+			"words": [
+				"complaint",
+				"please"
+			],
+			"positive": [
+				"please"
+			],
+			"negative": [
+				"complaint"
+			]
+		}
+	},
+	{
+		"id": "799015916126306304",
+		"screenname": "Silva19693",
+		"name": "Silva",
+		"created_at": "Wed Nov 16 22:26:54 +0000 2016",
+		"text": "@nytpolitics Pres. Clinton shifted out pollution to China. Now They pollute more, we pollute less. All the same. Just China makes more money",
+		"sentiment": {
+			"score": -6,
+			"comparative": -0.2608695652173913,
+			"tokens": [
+				"nytpolitics",
+				"pres",
+				"clinton",
+				"shifted",
+				"out",
+				"pollution",
+				"to",
+				"china",
+				"now",
+				"they",
+				"pollute",
+				"more",
+				"we",
+				"pollute",
+				"less",
+				"all",
+				"the",
+				"same",
+				"just",
+				"china",
+				"makes",
+				"more",
+				"money"
+			],
+			"words": [
+				"pollute",
+				"pollute",
+				"pollution"
+			],
+			"positive": [],
+			"negative": [
+				"pollute",
+				"pollute",
+				"pollution"
+			]
+		}
+	},
+	{
+		"id": "799015914733588480",
+		"screenname": "JamesAntonHake",
+		"name": "James Anton Hake",
+		"created_at": "Wed Nov 16 22:26:53 +0000 2016",
+		"text": "RT @Cernovich: .@davidfrum What about the bad behavior from Hillary supporters, which included offline violence? https://t.co/fW5JPDIRYk ht…",
+		"sentiment": {
+			"score": -6,
+			"comparative": -0.35294117647058826,
+			"tokens": [
+				"rt",
+				"cernovich",
+				"davidfrum",
+				"what",
+				"about",
+				"the",
+				"bad",
+				"behavior",
+				"from",
+				"hillary",
+				"supporters",
+				"which",
+				"included",
+				"offline",
+				"violence",
+				"httpstcofw5jpdiryk",
+				"ht"
+			],
+			"words": [
+				"violence",
+				"offline",
+				"supporters",
+				"bad"
+			],
+			"positive": [
+				"supporters"
+			],
+			"negative": [
+				"violence",
+				"offline",
+				"bad"
+			]
+		}
+	},
+	{
+		"id": "799015910811963392",
+		"screenname": "alandanh",
+		"name": "Alan",
+		"created_at": "Wed Nov 16 22:26:52 +0000 2016",
+		"text": "RT @ABCPolitics: LATEST: Clinton leads Trump by 1,125,855 in presidential popular vote:\n\nClinton: 62,409,031 (48%)\nTrump: 61,283,176 (47%)",
+		"sentiment": {
+			"score": 3,
+			"comparative": 0.1875,
+			"tokens": [
+				"rt",
+				"abcpolitics",
+				"latest",
+				"clinton",
+				"leads",
+				"trump",
+				"by",
+				"1125855",
+				"in",
+				"presidential",
+				"popular",
+				"voteclinton",
+				"62409031",
+				"48trump",
+				"61283176",
+				"47"
+			],
+			"words": [
+				"popular"
+			],
+			"positive": [
+				"popular"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015909784424448",
+		"screenname": "awexton",
+		"name": "Andrew Wexton",
+		"created_at": "Wed Nov 16 22:26:52 +0000 2016",
+		"text": "RT @ABCPolitics: LATEST: Clinton leads Trump by 1,125,855 in presidential popular vote:\n\nClinton: 62,409,031 (48%)\nTrump: 61,283,176 (47%)",
+		"sentiment": {
+			"score": 3,
+			"comparative": 0.1875,
+			"tokens": [
+				"rt",
+				"abcpolitics",
+				"latest",
+				"clinton",
+				"leads",
+				"trump",
+				"by",
+				"1125855",
+				"in",
+				"presidential",
+				"popular",
+				"voteclinton",
+				"62409031",
+				"48trump",
+				"61283176",
+				"47"
+			],
+			"words": [
+				"popular"
+			],
+			"positive": [
+				"popular"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015909390159872",
+		"screenname": "responsipreneur",
+		"name": "Dawn Kashane",
+		"created_at": "Wed Nov 16 22:26:52 +0000 2016",
+		"text": "RT @nytopinion: Hillary Clinton didn’t just win the popular vote. She won it by a substantial margin. https://t.co/wqqE0q5KJ2",
+		"sentiment": {
+			"score": 11,
+			"comparative": 0.6111111111111112,
+			"tokens": [
+				"rt",
+				"nytopinion",
+				"hillary",
+				"clinton",
+				"didnt",
+				"just",
+				"win",
+				"the",
+				"popular",
+				"vote",
+				"she",
+				"won",
+				"it",
+				"by",
+				"a",
+				"substantial",
+				"margin",
+				"httpstcowqqe0q5kj2"
+			],
+			"words": [
+				"substantial",
+				"won",
+				"popular",
+				"win"
+			],
+			"positive": [
+				"substantial",
+				"won",
+				"popular",
+				"win"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015909356666880",
+		"screenname": "SunnyHiller",
+		"name": "Sunny Hiller",
+		"created_at": "Wed Nov 16 22:26:52 +0000 2016",
+		"text": "1 wld think @cnn wld report on THIS Clinton Sent Classified Document to Daughter  https://t.co/nvyU4OE2Hx via @JudicialWatch",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"1",
+				"wld",
+				"think",
+				"cnn",
+				"wld",
+				"report",
+				"on",
+				"this",
+				"clinton",
+				"sent",
+				"classified",
+				"document",
+				"to",
+				"daughter",
+				"",
+				"httpstconvyu4oe2hx",
+				"via",
+				"judicialwatch"
+			],
+			"words": [
+				""
+			],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015907498532865",
+		"screenname": "warriors_mom",
+		"name": "Tamara Davis",
+		"created_at": "Wed Nov 16 22:26:52 +0000 2016",
+		"text": "Obama, Clinton, &amp; Sanders Could Stop The Riots...But They Just Watch 👀 Zero Hedge #SocialEngineering @warriors_mom  https://t.co/hCDqcSnb7L",
+		"sentiment": {
+			"score": -1,
+			"comparative": -0.05555555555555555,
+			"tokens": [
+				"obama",
+				"clinton",
+				"amp",
+				"sanders",
+				"could",
+				"stop",
+				"the",
+				"riotsbut",
+				"they",
+				"just",
+				"watch",
+				"",
+				"zero",
+				"hedge",
+				"socialengineering",
+				"warriorsmom",
+				"",
+				"httpstcohcdqcsnb7l"
+			],
+			"words": [
+				"",
+				"",
+				"stop"
+			],
+			"positive": [],
+			"negative": [
+				"stop"
+			]
+		}
+	},
+	{
+		"id": "799015906416480256",
+		"screenname": "jmdonsi",
+		"name": "jim doherty",
+		"created_at": "Wed Nov 16 22:26:51 +0000 2016",
+		"text": "RT @Ian56789: Obama, Clinton, And Sanders Could Stop The Riots But They Just Watch https://t.co/ftH3yAgSXt",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.2,
+			"tokens": [
+				"rt",
+				"ian56789",
+				"obama",
+				"clinton",
+				"and",
+				"sanders",
+				"could",
+				"stop",
+				"the",
+				"riots",
+				"but",
+				"they",
+				"just",
+				"watch",
+				"httpstcofth3yagsxt"
+			],
+			"words": [
+				"riots",
+				"stop"
+			],
+			"positive": [],
+			"negative": [
+				"riots",
+				"stop"
+			]
+		}
+	},
+	{
+		"id": "799015903325196288",
+		"screenname": "HolyFount",
+		"name": "🔥MERRY CHRISTMAS 🔥",
+		"created_at": "Wed Nov 16 22:26:51 +0000 2016",
+		"text": "RT @Hap2bdeplorable: Rich! Only in america. Hellary Clinton getting an award for dedication2 Children, is this 4 the rape &amp; trafficking of…",
+		"sentiment": {
+			"score": 1,
+			"comparative": 0.045454545454545456,
+			"tokens": [
+				"rt",
+				"hap2bdeplorable",
+				"rich",
+				"only",
+				"in",
+				"america",
+				"hellary",
+				"clinton",
+				"getting",
+				"an",
+				"award",
+				"for",
+				"dedication2",
+				"children",
+				"is",
+				"this",
+				"4",
+				"the",
+				"rape",
+				"amp",
+				"trafficking",
+				"of"
+			],
+			"words": [
+				"rape",
+				"award",
+				"rich"
+			],
+			"positive": [
+				"award",
+				"rich"
+			],
+			"negative": [
+				"rape"
+			]
+		}
+	},
+	{
+		"id": "799015899206254592",
+		"screenname": "DMCSarf",
+		"name": "Daniel",
+		"created_at": "Wed Nov 16 22:26:50 +0000 2016",
+		"text": "RT @goldengateblond: Pop quiz for everyone who said Clinton and Trump were exactly the same: Which white supremacist would she have hired?",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"goldengateblond",
+				"pop",
+				"quiz",
+				"for",
+				"everyone",
+				"who",
+				"said",
+				"clinton",
+				"and",
+				"trump",
+				"were",
+				"exactly",
+				"the",
+				"same",
+				"which",
+				"white",
+				"supremacist",
+				"would",
+				"she",
+				"have",
+				"hired"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015898044567552",
+		"screenname": "tcarrcreations",
+		"name": "Tanya C",
+		"created_at": "Wed Nov 16 22:26:49 +0000 2016",
+		"text": "RT @OnMessageForHer: The press is just a little cranky because all of those fancy off-the-record soirees they would've attended with Clinto…",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"onmessageforher",
+				"the",
+				"press",
+				"is",
+				"just",
+				"a",
+				"little",
+				"cranky",
+				"because",
+				"all",
+				"of",
+				"those",
+				"fancy",
+				"off-the-record",
+				"soirees",
+				"they",
+				"would've",
+				"attended",
+				"with",
+				"clinto"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015897918738433",
+		"screenname": "spinachprincess",
+		"name": "julia",
+		"created_at": "Wed Nov 16 22:26:49 +0000 2016",
+		"text": "RT @ABCPolitics: LATEST: Clinton leads Trump by 1,125,855 in presidential popular vote:\n\nClinton: 62,409,031 (48%)\nTrump: 61,283,176 (47%)",
+		"sentiment": {
+			"score": 3,
+			"comparative": 0.1875,
+			"tokens": [
+				"rt",
+				"abcpolitics",
+				"latest",
+				"clinton",
+				"leads",
+				"trump",
+				"by",
+				"1125855",
+				"in",
+				"presidential",
+				"popular",
+				"voteclinton",
+				"62409031",
+				"48trump",
+				"61283176",
+				"47"
+			],
+			"words": [
+				"popular"
+			],
+			"positive": [
+				"popular"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015896417259522",
+		"screenname": "Usefulnotes_",
+		"name": "Watch Dog",
+		"created_at": "Wed Nov 16 22:26:49 +0000 2016",
+		"text": "RT @mattdpearce: You'll Never Believe This Gonzo Theory About How Clinton Actually Lost The Popular Vote — Because It's Not Real https://t.…",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"mattdpearce",
+				"you'll",
+				"never",
+				"believe",
+				"this",
+				"gonzo",
+				"theory",
+				"about",
+				"how",
+				"clinton",
+				"actually",
+				"lost",
+				"the",
+				"popular",
+				"vote",
+				"",
+				"because",
+				"it's",
+				"not",
+				"real",
+				"httpst"
+			],
+			"words": [
+				"",
+				"popular",
+				"lost"
+			],
+			"positive": [
+				"popular"
+			],
+			"negative": [
+				"lost"
+			]
+		}
+	},
+	{
+		"id": "799015895192506368",
+		"screenname": "exZMF",
+		"name": "Doug Yeager",
+		"created_at": "Wed Nov 16 22:26:49 +0000 2016",
+		"text": "RT @TimJGraham: NBC News files another story with outrage over \"fake news,\" fails to mention the entire \"fake news\" career of Chelsea Clint…",
+		"sentiment": {
+			"score": -11,
+			"comparative": -0.4782608695652174,
+			"tokens": [
+				"rt",
+				"timjgraham",
+				"nbc",
+				"news",
+				"files",
+				"another",
+				"story",
+				"with",
+				"outrage",
+				"over",
+				"fake",
+				"news",
+				"fails",
+				"to",
+				"mention",
+				"the",
+				"entire",
+				"fake",
+				"news",
+				"career",
+				"of",
+				"chelsea",
+				"clint"
+			],
+			"words": [
+				"fake",
+				"fails",
+				"fake",
+				"outrage"
+			],
+			"positive": [],
+			"negative": [
+				"fake",
+				"fails",
+				"fake",
+				"outrage"
+			]
+		}
+	},
+	{
+		"id": "799015894777143296",
+		"screenname": "Bubbbyboo",
+		"name": "Bubbyboo",
+		"created_at": "Wed Nov 16 22:26:48 +0000 2016",
+		"text": "RT @denniallen: So @realDonaldTrump if you agree candidate who gets most votes should win Presidency then you must agree Clinton should be…",
+		"sentiment": {
+			"score": 6,
+			"comparative": 0.2727272727272727,
+			"tokens": [
+				"rt",
+				"denniallen",
+				"so",
+				"realdonaldtrump",
+				"if",
+				"you",
+				"agree",
+				"candidate",
+				"who",
+				"gets",
+				"most",
+				"votes",
+				"should",
+				"win",
+				"presidency",
+				"then",
+				"you",
+				"must",
+				"agree",
+				"clinton",
+				"should",
+				"be"
+			],
+			"words": [
+				"agree",
+				"win",
+				"agree"
+			],
+			"positive": [
+				"agree",
+				"win",
+				"agree"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015894223618048",
+		"screenname": "HI_CLINTON",
+		"name": "Holiday Inn Clinton",
+		"created_at": "Wed Nov 16 22:26:48 +0000 2016",
+		"text": "How amazing it is! \n#JoyOfTravel https://t.co/9bre6798VR https://t.co/8Gn44HVItM",
+		"sentiment": {
+			"score": 4,
+			"comparative": 0.5714285714285714,
+			"tokens": [
+				"how",
+				"amazing",
+				"it",
+				"is",
+				"joyoftravel",
+				"httpstco9bre6798vr",
+				"httpstco8gn44hvitm"
+			],
+			"words": [
+				"amazing"
+			],
+			"positive": [
+				"amazing"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015891124047876",
+		"screenname": "normalvoter",
+		"name": "Helene",
+		"created_at": "Wed Nov 16 22:26:48 +0000 2016",
+		"text": "RT @joncoopertweets: If u despise Jason Chaffetz as much as I do, please RT this! It's about time ethics complaint was filed against him! h…",
+		"sentiment": {
+			"score": -1,
+			"comparative": -0.04,
+			"tokens": [
+				"rt",
+				"joncoopertweets",
+				"if",
+				"u",
+				"despise",
+				"jason",
+				"chaffetz",
+				"as",
+				"much",
+				"as",
+				"i",
+				"do",
+				"please",
+				"rt",
+				"this",
+				"it's",
+				"about",
+				"time",
+				"ethics",
+				"complaint",
+				"was",
+				"filed",
+				"against",
+				"him",
+				"h"
+			],
+			"words": [
+				"complaint",
+				"please"
+			],
+			"positive": [
+				"please"
+			],
+			"negative": [
+				"complaint"
+			]
+		}
+	},
+	{
+		"id": "799015889722953728",
+		"screenname": "Davebhaase",
+		"name": "dave haase",
+		"created_at": "Wed Nov 16 22:26:47 +0000 2016",
+		"text": "RT @The_Trump_Fans: BREAKING: WikiLeaks Ties Chelsea Clinton to 7-Year, $6 Million Federal Scheme https://t.co/io0FxSwVKU https://t.co/6VL7…",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"thetrumpfans",
+				"breaking",
+				"wikileaks",
+				"ties",
+				"chelsea",
+				"clinton",
+				"to",
+				"7-year",
+				"6",
+				"million",
+				"federal",
+				"scheme",
+				"httpstcoio0fxswvku",
+				"httpstco6vl7"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015888615718912",
+		"screenname": "carollansing",
+		"name": "CarolL",
+		"created_at": "Wed Nov 16 22:26:47 +0000 2016",
+		"text": "RT @reg1776: Obama, Clinton, And Sanders Could Stop The Riots But They Just Watch | Zero Hedge https://t.co/Pbtm5YcvkV",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.16666666666666666,
+			"tokens": [
+				"rt",
+				"reg1776",
+				"obama",
+				"clinton",
+				"and",
+				"sanders",
+				"could",
+				"stop",
+				"the",
+				"riots",
+				"but",
+				"they",
+				"just",
+				"watch",
+				"",
+				"zero",
+				"hedge",
+				"httpstcopbtm5ycvkv"
+			],
+			"words": [
+				"",
+				"riots",
+				"stop"
+			],
+			"positive": [],
+			"negative": [
+				"riots",
+				"stop"
+			]
+		}
+	},
+	{
+		"id": "799015888280309760",
+		"screenname": "marieinal",
+		"name": "Leo aka Leonardo#923",
+		"created_at": "Wed Nov 16 22:26:47 +0000 2016",
+		"text": "RT @ABCPolitics: LATEST: Clinton leads Trump by 1,125,855 in presidential popular vote:\n\nClinton: 62,409,031 (48%)\nTrump: 61,283,176 (47%)",
+		"sentiment": {
+			"score": 3,
+			"comparative": 0.1875,
+			"tokens": [
+				"rt",
+				"abcpolitics",
+				"latest",
+				"clinton",
+				"leads",
+				"trump",
+				"by",
+				"1125855",
+				"in",
+				"presidential",
+				"popular",
+				"voteclinton",
+				"62409031",
+				"48trump",
+				"61283176",
+				"47"
+			],
+			"words": [
+				"popular"
+			],
+			"positive": [
+				"popular"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015887718285312",
+		"screenname": "martinservioli",
+		"name": "Martin Servioli",
+		"created_at": "Wed Nov 16 22:26:47 +0000 2016",
+		"text": "RT @BrilliantMaps: Clinton’s America \nhttps://t.co/nyyX6UsPR9 https://t.co/9eWgEJcQwG",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"brilliantmaps",
+				"clintons",
+				"america",
+				"httpstconyyx6uspr9",
+				"httpstco9ewgejcqwg"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015886958931968",
+		"screenname": "bluebel06187675",
+		"name": "Sweaty Flaps",
+		"created_at": "Wed Nov 16 22:26:47 +0000 2016",
+		"text": "RT @scalzi: Reminder: Trump didn't get as many individual votes as Clinton. Just because he won doesn't mean you are outnumbered.",
+		"sentiment": {
+			"score": 1,
+			"comparative": 0.047619047619047616,
+			"tokens": [
+				"rt",
+				"scalzi",
+				"reminder",
+				"trump",
+				"didn't",
+				"get",
+				"as",
+				"many",
+				"individual",
+				"votes",
+				"as",
+				"clinton",
+				"just",
+				"because",
+				"he",
+				"won",
+				"doesn't",
+				"mean",
+				"you",
+				"are",
+				"outnumbered"
+			],
+			"words": [
+				"outnumbered",
+				"won"
+			],
+			"positive": [
+				"won"
+			],
+			"negative": [
+				"outnumbered"
+			]
+		}
+	},
+	{
+		"id": "799015886002659332",
+		"screenname": "JoeyFotoFr",
+		"name": "Joey Tranchina",
+		"created_at": "Wed Nov 16 22:26:46 +0000 2016",
+		"text": "RT @IanSams: The Clinton Fdn uses foreign $ to fund AIDS treatment for 11M, and Hillary's \"crooked.\"\n\nRudy pockets it and is SecState mater…",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"iansams",
+				"the",
+				"clinton",
+				"fdn",
+				"uses",
+				"foreign",
+				"",
+				"to",
+				"fund",
+				"aids",
+				"treatment",
+				"for",
+				"11m",
+				"and",
+				"hillary's",
+				"crookedrudy",
+				"pockets",
+				"it",
+				"and",
+				"is",
+				"secstate",
+				"mater"
+			],
+			"words": [
+				""
+			],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015884853374976",
+		"screenname": "j_ackbarry",
+		"name": "jack the scanner",
+		"created_at": "Wed Nov 16 22:26:46 +0000 2016",
+		"text": "RT @mtracey: I can't even find words to describe this piece of writing. I'm just in shock. https://t.co/4JcoTXlTXH https://t.co/bkJvGUlV8D",
+		"sentiment": {
+			"score": -2,
+			"comparative": -0.10526315789473684,
+			"tokens": [
+				"rt",
+				"mtracey",
+				"i",
+				"can't",
+				"even",
+				"find",
+				"words",
+				"to",
+				"describe",
+				"this",
+				"piece",
+				"of",
+				"writing",
+				"i'm",
+				"just",
+				"in",
+				"shock",
+				"httpstco4jcotxltxh",
+				"httpstcobkjvgulv8d"
+			],
+			"words": [
+				"shock"
+			],
+			"positive": [],
+			"negative": [
+				"shock"
+			]
+		}
+	},
+	{
+		"id": "799015883737681924",
+		"screenname": "coolaliendad",
+		"name": "cootie boy",
+		"created_at": "Wed Nov 16 22:26:46 +0000 2016",
+		"text": "RT @Ieiasorgana: if I ever meet hillary clinton I'll prob just cry and try to hug her",
+		"sentiment": {
+			"score": 1,
+			"comparative": 0.058823529411764705,
+			"tokens": [
+				"rt",
+				"ieiasorgana",
+				"if",
+				"i",
+				"ever",
+				"meet",
+				"hillary",
+				"clinton",
+				"i'll",
+				"prob",
+				"just",
+				"cry",
+				"and",
+				"try",
+				"to",
+				"hug",
+				"her"
+			],
+			"words": [
+				"hug",
+				"cry"
+			],
+			"positive": [
+				"hug"
+			],
+			"negative": [
+				"cry"
+			]
+		}
+	},
+	{
+		"id": "799015882521329664",
+		"screenname": "KofoAregbesola",
+		"name": "KofoworolaAregbesola",
+		"created_at": "Wed Nov 16 22:26:46 +0000 2016",
+		"text": "RT @PoliticKels: Could you imagine the outcry if Hillary put Chelsea in charge of the Clinton Foundation and then said she wanted security…",
+		"sentiment": {
+			"score": -2,
+			"comparative": -0.08695652173913043,
+			"tokens": [
+				"rt",
+				"politickels",
+				"could",
+				"you",
+				"imagine",
+				"the",
+				"outcry",
+				"if",
+				"hillary",
+				"put",
+				"chelsea",
+				"in",
+				"charge",
+				"of",
+				"the",
+				"clinton",
+				"foundation",
+				"and",
+				"then",
+				"said",
+				"she",
+				"wanted",
+				"security"
+			],
+			"words": [
+				"outcry"
+			],
+			"positive": [],
+			"negative": [
+				"outcry"
+			]
+		}
+	},
+	{
+		"id": "799015880524845056",
+		"screenname": "RayRobid",
+		"name": "Ray Robidoux",
+		"created_at": "Wed Nov 16 22:26:45 +0000 2016",
+		"text": "RT @TheDailyEdge: Trump finishes distant third in 2016 Presidential Election. Final result:\n1. Didn't vote \n2. Clinton\n3. Trump",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"thedailyedge",
+				"trump",
+				"finishes",
+				"distant",
+				"third",
+				"in",
+				"2016",
+				"presidential",
+				"election",
+				"final",
+				"result1",
+				"didn't",
+				"vote",
+				"2",
+				"clinton3",
+				"trump"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015878415306753",
+		"screenname": "WebsterGladwin",
+		"name": "Concerned Citizen",
+		"created_at": "Wed Nov 16 22:26:45 +0000 2016",
+		"text": "@ABC \n\nLol, remember when yall said disgraced former politician hillary clinton was +12% nationally.  That was too… https://t.co/WfhLXgs6sc",
+		"sentiment": {
+			"score": 1,
+			"comparative": 0.05263157894736842,
+			"tokens": [
+				"abc",
+				"lol",
+				"remember",
+				"when",
+				"yall",
+				"said",
+				"disgraced",
+				"former",
+				"politician",
+				"hillary",
+				"clinton",
+				"was",
+				"12",
+				"nationally",
+				"",
+				"that",
+				"was",
+				"too",
+				"httpstcowfhlxgs6sc"
+			],
+			"words": [
+				"",
+				"disgraced",
+				"lol"
+			],
+			"positive": [
+				"lol"
+			],
+			"negative": [
+				"disgraced"
+			]
+		}
+	},
+	{
+		"id": "799015876989161472",
+		"screenname": "bronte17",
+		"name": "bronte",
+		"created_at": "Wed Nov 16 22:26:44 +0000 2016",
+		"text": "RT @JeannieSuk: Trump Defeated Clinton, Not Women https://t.co/QxtpkZ2lq3",
+		"sentiment": {
+			"score": -2,
+			"comparative": -0.25,
+			"tokens": [
+				"rt",
+				"jeanniesuk",
+				"trump",
+				"defeated",
+				"clinton",
+				"not",
+				"women",
+				"httpstcoqxtpkz2lq3"
+			],
+			"words": [
+				"defeated"
+			],
+			"positive": [],
+			"negative": [
+				"defeated"
+			]
+		}
+	},
+	{
+		"id": "799015876921933825",
+		"screenname": "razzleberry_e",
+		"name": "Edlyn",
+		"created_at": "Wed Nov 16 22:26:44 +0000 2016",
+		"text": "RT @Redistrict: Hillary Clinton's popular vote lead now up to 1.2 million w/ 130.6 million votes counted &amp; lots more to go. https://t.co/j5…",
+		"sentiment": {
+			"score": 3,
+			"comparative": 0.13043478260869565,
+			"tokens": [
+				"rt",
+				"redistrict",
+				"hillary",
+				"clinton's",
+				"popular",
+				"vote",
+				"lead",
+				"now",
+				"up",
+				"to",
+				"12",
+				"million",
+				"w",
+				"1306",
+				"million",
+				"votes",
+				"counted",
+				"amp",
+				"lots",
+				"more",
+				"to",
+				"go",
+				"httpstcoj5"
+			],
+			"words": [
+				"popular"
+			],
+			"positive": [
+				"popular"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015875437350917",
+		"screenname": "BrunoMferreiro",
+		"name": "Bruno Ferreira",
+		"created_at": "Wed Nov 16 22:26:44 +0000 2016",
+		"text": "RT @0hour: Hi Bill Clinton Love\n#Anonymous https://t.co/dfIb96BjTm",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"0hour",
+				"hi",
+				"bill",
+				"clinton",
+				"loveanonymous",
+				"httpstcodfib96bjtm"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015874317393920",
+		"screenname": "All_Trends_IT",
+		"name": "All Trends IT",
+		"created_at": "Wed Nov 16 22:26:44 +0000 2016",
+		"text": "Hillary Clinton’s ‘I’m Sorry’ Is A First In Election History https://t.co/QS4i89wKTn via Chelsea Hoffman",
+		"sentiment": {
+			"score": -1,
+			"comparative": -0.07142857142857142,
+			"tokens": [
+				"hillary",
+				"clintons",
+				"im",
+				"sorry",
+				"is",
+				"a",
+				"first",
+				"in",
+				"election",
+				"history",
+				"httpstcoqs4i89wktn",
+				"via",
+				"chelsea",
+				"hoffman"
+			],
+			"words": [
+				"sorry"
+			],
+			"positive": [],
+			"negative": [
+				"sorry"
+			]
+		}
+	},
+	{
+		"id": "799015873541472256",
+		"screenname": "Okie101847",
+		"name": "Okie1018",
+		"created_at": "Wed Nov 16 22:26:43 +0000 2016",
+		"text": "RT @mericanrefugee: While the electoral college is all that matters, Hillary Clinton did not win the  LEGAL popular vote. This election was…",
+		"sentiment": {
+			"score": 9,
+			"comparative": 0.391304347826087,
+			"tokens": [
+				"rt",
+				"mericanrefugee",
+				"while",
+				"the",
+				"electoral",
+				"college",
+				"is",
+				"all",
+				"that",
+				"matters",
+				"hillary",
+				"clinton",
+				"did",
+				"not",
+				"win",
+				"the",
+				"",
+				"legal",
+				"popular",
+				"vote",
+				"this",
+				"election",
+				"was"
+			],
+			"words": [
+				"popular",
+				"legal",
+				"",
+				"win",
+				"matters"
+			],
+			"positive": [
+				"popular",
+				"legal",
+				"win",
+				"matters"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015868126601216",
+		"screenname": "OpineSOCIAL",
+		"name": "Opine●SOCIAL",
+		"created_at": "Wed Nov 16 22:26:42 +0000 2016",
+		"text": "@OpineSOCIAL » Hillary Clinton Threw A Violent Tantrum Following Loss To Donald Trump In Unproven Claim https://t.co/ta4njCZKxv #Opines on #",
+		"sentiment": {
+			"score": -6,
+			"comparative": -0.3,
+			"tokens": [
+				"opinesocial",
+				"",
+				"hillary",
+				"clinton",
+				"threw",
+				"a",
+				"violent",
+				"tantrum",
+				"following",
+				"loss",
+				"to",
+				"donald",
+				"trump",
+				"in",
+				"unproven",
+				"claim",
+				"httpstcota4njczkxv",
+				"opines",
+				"on",
+				""
+			],
+			"words": [
+				"",
+				"loss",
+				"violent",
+				""
+			],
+			"positive": [],
+			"negative": [
+				"loss",
+				"violent"
+			]
+		}
+	},
+	{
+		"id": "799015867551862784",
+		"screenname": "MarinheiroCarl",
+		"name": "Carlos Marinheiro",
+		"created_at": "Wed Nov 16 22:26:42 +0000 2016",
+		"text": "RT @sahouraxo: Can you imagine, if Hillary Clinton was elected and had access to America's nuclear arsenal, the kind of havoc she could wre…",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"sahouraxo",
+				"can",
+				"you",
+				"imagine",
+				"if",
+				"hillary",
+				"clinton",
+				"was",
+				"elected",
+				"and",
+				"had",
+				"access",
+				"to",
+				"america's",
+				"nuclear",
+				"arsenal",
+				"the",
+				"kind",
+				"of",
+				"havoc",
+				"she",
+				"could",
+				"wre"
+			],
+			"words": [
+				"havoc",
+				"kind"
+			],
+			"positive": [
+				"kind"
+			],
+			"negative": [
+				"havoc"
+			]
+		}
+	},
+	{
+		"id": "799015862132830208",
+		"screenname": "jimbradyispapa",
+		"name": "James Brady",
+		"created_at": "Wed Nov 16 22:26:41 +0000 2016",
+		"text": "BREAKING: WikiLeaks Ties Chelsea Clinton to 7-Year, $6 Million Federal Scheme | The Proud Conservative https://t.co/1XSJJWPlny",
+		"sentiment": {
+			"score": 2,
+			"comparative": 0.125,
+			"tokens": [
+				"breaking",
+				"wikileaks",
+				"ties",
+				"chelsea",
+				"clinton",
+				"to",
+				"7-year",
+				"6",
+				"million",
+				"federal",
+				"scheme",
+				"",
+				"the",
+				"proud",
+				"conservative",
+				"httpstco1xsjjwplny"
+			],
+			"words": [
+				"proud",
+				""
+			],
+			"positive": [
+				"proud"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015860908281859",
+		"screenname": "Rattboy7",
+		"name": "Chris Scott",
+		"created_at": "Wed Nov 16 22:26:40 +0000 2016",
+		"text": "RT @TheDailyEdge: Trump finishes distant third in 2016 Presidential Election. Final result:\n1. Didn't vote \n2. Clinton\n3. Trump",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"thedailyedge",
+				"trump",
+				"finishes",
+				"distant",
+				"third",
+				"in",
+				"2016",
+				"presidential",
+				"election",
+				"final",
+				"result1",
+				"didn't",
+				"vote",
+				"2",
+				"clinton3",
+				"trump"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015857003368449",
+		"screenname": "lukascph",
+		"name": "Lukas Knöfler",
+		"created_at": "Wed Nov 16 22:26:39 +0000 2016",
+		"text": "RT @jackthurston: The Clinton Archipelago https://t.co/qgamlRTme2 https://t.co/fg9unRlPUg",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"jackthurston",
+				"the",
+				"clinton",
+				"archipelago",
+				"httpstcoqgamlrtme2",
+				"httpstcofg9unrlpug"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015856663654400",
+		"screenname": "carlostortoledo",
+		"name": "Carlos Tortoledo",
+		"created_at": "Wed Nov 16 22:26:39 +0000 2016",
+		"text": "RT @zerohedge: Obama, Clinton, And Sanders Could Stop The Riots But They Just Watch https://t.co/hTU54ZlbsQ",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.2,
+			"tokens": [
+				"rt",
+				"zerohedge",
+				"obama",
+				"clinton",
+				"and",
+				"sanders",
+				"could",
+				"stop",
+				"the",
+				"riots",
+				"but",
+				"they",
+				"just",
+				"watch",
+				"httpstcohtu54zlbsq"
+			],
+			"words": [
+				"riots",
+				"stop"
+			],
+			"positive": [],
+			"negative": [
+				"riots",
+				"stop"
+			]
+		}
+	},
+	{
+		"id": "799015853203345411",
+		"screenname": "SKeithPryor",
+		"name": "SKPryor",
+		"created_at": "Wed Nov 16 22:26:39 +0000 2016",
+		"text": "RT Clinton now pulls away with Full Point, even after Rogue NY FBI Agents tried to sabotage her multiple times Viol… https://t.co/ZRflsFO4MZ",
+		"sentiment": {
+			"score": -2,
+			"comparative": -0.09090909090909091,
+			"tokens": [
+				"rt",
+				"clinton",
+				"now",
+				"pulls",
+				"away",
+				"with",
+				"full",
+				"point",
+				"even",
+				"after",
+				"rogue",
+				"ny",
+				"fbi",
+				"agents",
+				"tried",
+				"to",
+				"sabotage",
+				"her",
+				"multiple",
+				"times",
+				"viol",
+				"httpstcozrflsfo4mz"
+			],
+			"words": [
+				"sabotage"
+			],
+			"positive": [],
+			"negative": [
+				"sabotage"
+			]
+		}
+	},
+	{
+		"id": "799015852750344192",
+		"screenname": "Jantxnc",
+		"name": "Jan F. Pleasants",
+		"created_at": "Wed Nov 16 22:26:38 +0000 2016",
+		"text": "RT @GOPjenna: NYC Mayor Bill de Blasio is pretty irrelevant now. Who can respect a leader who, as @wikileaks revealed, needs Clinton approv…",
+		"sentiment": {
+			"score": 3,
+			"comparative": 0.13043478260869565,
+			"tokens": [
+				"rt",
+				"gopjenna",
+				"nyc",
+				"mayor",
+				"bill",
+				"de",
+				"blasio",
+				"is",
+				"pretty",
+				"irrelevant",
+				"now",
+				"who",
+				"can",
+				"respect",
+				"a",
+				"leader",
+				"who",
+				"as",
+				"wikileaks",
+				"revealed",
+				"needs",
+				"clinton",
+				"approv"
+			],
+			"words": [
+				"respect",
+				"pretty"
+			],
+			"positive": [
+				"respect",
+				"pretty"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015851093610496",
+		"screenname": "Candi151",
+		"name": "Candi",
+		"created_at": "Wed Nov 16 22:26:38 +0000 2016",
+		"text": "@Serpentine202 @Slate It was the Bernie supporters that didn't vote for Clinton who gave the elections to Trump",
+		"sentiment": {
+			"score": 1,
+			"comparative": 0.05555555555555555,
+			"tokens": [
+				"serpentine202",
+				"slate",
+				"it",
+				"was",
+				"the",
+				"bernie",
+				"supporters",
+				"that",
+				"didn't",
+				"vote",
+				"for",
+				"clinton",
+				"who",
+				"gave",
+				"the",
+				"elections",
+				"to",
+				"trump"
+			],
+			"words": [
+				"supporters"
+			],
+			"positive": [
+				"supporters"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015850325880832",
+		"screenname": "iamhamesh",
+		"name": "hammy",
+		"created_at": "Wed Nov 16 22:26:38 +0000 2016",
+		"text": "why would anyone write-in bernie sanders when he told everyone to vote for clinton? *slow clap for millennials*",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"why",
+				"would",
+				"anyone",
+				"write-in",
+				"bernie",
+				"sanders",
+				"when",
+				"he",
+				"told",
+				"everyone",
+				"to",
+				"vote",
+				"for",
+				"clinton",
+				"slow",
+				"clap",
+				"for",
+				"millennials"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015849915011072",
+		"screenname": "greenphilip",
+		"name": "Philip Reuchlin",
+		"created_at": "Wed Nov 16 22:26:38 +0000 2016",
+		"text": "Hillary Clinton’s Twitter Chart of Doom https://t.co/xxSwQTrNsY",
+		"sentiment": {
+			"score": -2,
+			"comparative": -0.2857142857142857,
+			"tokens": [
+				"hillary",
+				"clintons",
+				"twitter",
+				"chart",
+				"of",
+				"doom",
+				"httpstcoxxswqtrnsy"
+			],
+			"words": [
+				"doom"
+			],
+			"positive": [],
+			"negative": [
+				"doom"
+			]
+		}
+	},
+	{
+		"id": "799015849868791808",
+		"screenname": "r_eagle",
+		"name": "Ryan Eagle",
+		"created_at": "Wed Nov 16 22:26:38 +0000 2016",
+		"text": "Hillary Clinton’s Popular-Vote Victory Is Unprecedented—and Still Growing via @thenation https://t.co/wshGG6QvG9",
+		"sentiment": {
+			"score": 4,
+			"comparative": 0.36363636363636365,
+			"tokens": [
+				"hillary",
+				"clintons",
+				"popular-vote",
+				"victory",
+				"is",
+				"unprecedentedand",
+				"still",
+				"growing",
+				"via",
+				"thenation",
+				"httpstcowshgg6qvg9"
+			],
+			"words": [
+				"growing",
+				"victory"
+			],
+			"positive": [
+				"growing",
+				"victory"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015848694468608",
+		"screenname": "teamkimlisa",
+		"name": "7/11",
+		"created_at": "Wed Nov 16 22:26:37 +0000 2016",
+		"text": "RT @AlGiordano: 17. If you dragged Clinton down, YOU share the blame. Not those who held her up! And you're so self-unaware that now you bl…",
+		"sentiment": {
+			"score": -2,
+			"comparative": -0.07692307692307693,
+			"tokens": [
+				"rt",
+				"algiordano",
+				"17",
+				"if",
+				"you",
+				"dragged",
+				"clinton",
+				"down",
+				"you",
+				"share",
+				"the",
+				"blame",
+				"not",
+				"those",
+				"who",
+				"held",
+				"her",
+				"up",
+				"and",
+				"you're",
+				"so",
+				"self-unaware",
+				"that",
+				"now",
+				"you",
+				"bl"
+			],
+			"words": [
+				"blame",
+				"share",
+				"dragged"
+			],
+			"positive": [
+				"share"
+			],
+			"negative": [
+				"blame",
+				"dragged"
+			]
+		}
+	},
+	{
+		"id": "799015844869091330",
+		"screenname": "TrumpPenceUSA1",
+		"name": "Deplorable Kim",
+		"created_at": "Wed Nov 16 22:26:37 +0000 2016",
+		"text": "RT @MightyBusterBro: HILLARY \"has a foul mouth and a good throwing arm.\" #Hillary #Temperament #MAGA\n https://t.co/kGvqIhWjvJ",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"mightybusterbro",
+				"hillary",
+				"has",
+				"a",
+				"foul",
+				"mouth",
+				"and",
+				"a",
+				"good",
+				"throwing",
+				"arm",
+				"hillary",
+				"temperament",
+				"maga",
+				"httpstcokgvqihwjvj"
+			],
+			"words": [
+				"good",
+				"foul"
+			],
+			"positive": [
+				"good"
+			],
+			"negative": [
+				"foul"
+			]
+		}
+	},
+	{
+		"id": "799015844453883906",
+		"screenname": "Fanua",
+		"name": "Fanua",
+		"created_at": "Wed Nov 16 22:26:36 +0000 2016",
+		"text": "RT @business: The mood on Twitter suggested Hillary Clinton would lose https://t.co/pWRpSpiKnO https://t.co/VsbvIVZj0s",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"business",
+				"the",
+				"mood",
+				"on",
+				"twitter",
+				"suggested",
+				"hillary",
+				"clinton",
+				"would",
+				"lose",
+				"httpstcopwrpspikno",
+				"httpstcovsbvivzj0s"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015844395171844",
+		"screenname": "iamrtc",
+		"name": "Richard The Cool",
+		"created_at": "Wed Nov 16 22:26:36 +0000 2016",
+		"text": "RT @adamjohnsonNYC: Clinton's Super PAC spent $700,000 more for online trolls than the whole of the DNC spent on Latino voter outreach http…",
+		"sentiment": {
+			"score": 5,
+			"comparative": 0.21739130434782608,
+			"tokens": [
+				"rt",
+				"adamjohnsonnyc",
+				"clinton's",
+				"super",
+				"pac",
+				"spent",
+				"700000",
+				"more",
+				"for",
+				"online",
+				"trolls",
+				"than",
+				"the",
+				"whole",
+				"of",
+				"the",
+				"dnc",
+				"spent",
+				"on",
+				"latino",
+				"voter",
+				"outreach",
+				"http"
+			],
+			"words": [
+				"outreach",
+				"super"
+			],
+			"positive": [
+				"outreach",
+				"super"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015839328587776",
+		"screenname": "desertmagnolia5",
+		"name": "Omi",
+		"created_at": "Wed Nov 16 22:26:35 +0000 2016",
+		"text": "Michelle Obama Trashes Hillary Clinton https://t.co/pbGR2zkmOU via @YouTube remember when they weren't fake BFF's so does everyone else",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.16666666666666666,
+			"tokens": [
+				"michelle",
+				"obama",
+				"trashes",
+				"hillary",
+				"clinton",
+				"httpstcopbgr2zkmou",
+				"via",
+				"youtube",
+				"remember",
+				"when",
+				"they",
+				"weren't",
+				"fake",
+				"bff's",
+				"so",
+				"does",
+				"everyone",
+				"else"
+			],
+			"words": [
+				"fake"
+			],
+			"positive": [],
+			"negative": [
+				"fake"
+			]
+		}
+	},
+	{
+		"id": "799015838300782593",
+		"screenname": "ErythreanSea",
+		"name": "Bahre Negash",
+		"created_at": "Wed Nov 16 22:26:35 +0000 2016",
+		"text": "@RajaChemayel \nAl Gore did NOT had as many supporters as Hillary Clinton taking to the streets shaking the nation,… https://t.co/2P3OqWJrmp",
+		"sentiment": {
+			"score": 1,
+			"comparative": 0.05,
+			"tokens": [
+				"rajachemayel",
+				"al",
+				"gore",
+				"did",
+				"not",
+				"had",
+				"as",
+				"many",
+				"supporters",
+				"as",
+				"hillary",
+				"clinton",
+				"taking",
+				"to",
+				"the",
+				"streets",
+				"shaking",
+				"the",
+				"nation",
+				"httpstco2p3oqwjrmp"
+			],
+			"words": [
+				"supporters"
+			],
+			"positive": [
+				"supporters"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015837504065541",
+		"screenname": "vwselva",
+		"name": "doesn't know much",
+		"created_at": "Wed Nov 16 22:26:35 +0000 2016",
+		"text": "@LA_Denizen @aseitzwald No, that would be a lie. The main issue was the Clinton campaign ignoring those states: https://t.co/8Bd6zBzxi0",
+		"sentiment": {
+			"score": -1,
+			"comparative": -0.05263157894736842,
+			"tokens": [
+				"ladenizen",
+				"aseitzwald",
+				"no",
+				"that",
+				"would",
+				"be",
+				"a",
+				"lie",
+				"the",
+				"main",
+				"issue",
+				"was",
+				"the",
+				"clinton",
+				"campaign",
+				"ignoring",
+				"those",
+				"states",
+				"httpstco8bd6zbzxi0"
+			],
+			"words": [
+				"no"
+			],
+			"positive": [],
+			"negative": [
+				"no"
+			]
+		}
+	},
+	{
+		"id": "799015837403267072",
+		"screenname": "mooremusings",
+		"name": "Worddiva",
+		"created_at": "Wed Nov 16 22:26:35 +0000 2016",
+		"text": "RT @Deanofcomedy: Hillary Clinton’s Popular Vote Lead Passes One Million Mark https://t.co/GDXorlAnby via @thedailybeast",
+		"sentiment": {
+			"score": 3,
+			"comparative": 0.21428571428571427,
+			"tokens": [
+				"rt",
+				"deanofcomedy",
+				"hillary",
+				"clintons",
+				"popular",
+				"vote",
+				"lead",
+				"passes",
+				"one",
+				"million",
+				"mark",
+				"httpstcogdxorlanby",
+				"via",
+				"thedailybeast"
+			],
+			"words": [
+				"popular"
+			],
+			"positive": [
+				"popular"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015836686159872",
+		"screenname": "petersaysathing",
+		"name": "Peter Fitzobfuscate",
+		"created_at": "Wed Nov 16 22:26:35 +0000 2016",
+		"text": "@albyselkie PS. I realize many women were invested in Clinton for reasons that aren't mine, and that ragging on her now feels like a kick...",
+		"sentiment": {
+			"score": 2,
+			"comparative": 0.08,
+			"tokens": [
+				"albyselkie",
+				"ps",
+				"i",
+				"realize",
+				"many",
+				"women",
+				"were",
+				"invested",
+				"in",
+				"clinton",
+				"for",
+				"reasons",
+				"that",
+				"aren't",
+				"mine",
+				"and",
+				"that",
+				"ragging",
+				"on",
+				"her",
+				"now",
+				"feels",
+				"like",
+				"a",
+				"kick"
+			],
+			"words": [
+				"like"
+			],
+			"positive": [
+				"like"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015835226558464",
+		"screenname": "jaswtaylor1",
+		"name": "Jas W Taylor",
+		"created_at": "Wed Nov 16 22:26:34 +0000 2016",
+		"text": "RT @TheDailyEdge: Trump finishes distant third in 2016 Presidential Election. Final result:\n1. Didn't vote \n2. Clinton\n3. Trump",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"thedailyedge",
+				"trump",
+				"finishes",
+				"distant",
+				"third",
+				"in",
+				"2016",
+				"presidential",
+				"election",
+				"final",
+				"result1",
+				"didn't",
+				"vote",
+				"2",
+				"clinton3",
+				"trump"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015834752405504",
+		"screenname": "penelopeessence",
+		"name": "Broadcaster",
+		"created_at": "Wed Nov 16 22:26:34 +0000 2016",
+		"text": "RT @Kredo0: And the media establishment/elitist Dems still wonder why Clinton lost: https://t.co/luTY58ZUqd https://t.co/no2Qg8KjFd",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.21428571428571427,
+			"tokens": [
+				"rt",
+				"kredo0",
+				"and",
+				"the",
+				"media",
+				"establishmentelitist",
+				"dems",
+				"still",
+				"wonder",
+				"why",
+				"clinton",
+				"lost",
+				"httpstcoluty58zuqd",
+				"httpstcono2qg8kjfd"
+			],
+			"words": [
+				"lost"
+			],
+			"positive": [],
+			"negative": [
+				"lost"
+			]
+		}
+	},
+	{
+		"id": "799015833750110208",
+		"screenname": "BasuAshis",
+		"name": "Ashis Basu",
+		"created_at": "Wed Nov 16 22:26:34 +0000 2016",
+		"text": "Dean: DNC race may 'turn into a war' between Sanders backers, Clinton fans https://t.co/LUqANrQDoc",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"dean",
+				"dnc",
+				"race",
+				"may",
+				"'turn",
+				"into",
+				"a",
+				"war'",
+				"between",
+				"sanders",
+				"backers",
+				"clinton",
+				"fans",
+				"httpstcoluqanrqdoc"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015832164540416",
+		"screenname": "betisbel",
+		"name": "Betsy Shapiro",
+		"created_at": "Wed Nov 16 22:26:34 +0000 2016",
+		"text": "#StopTrump We knew,we let him run,we cannot let him in White House https://t.co/OJoVekvksI Plz sign and retweet… https://t.co/vd0zZOBnOL",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"stoptrump",
+				"we",
+				"knewwe",
+				"let",
+				"him",
+				"runwe",
+				"cannot",
+				"let",
+				"him",
+				"in",
+				"white",
+				"house",
+				"httpstcoojovekvksi",
+				"plz",
+				"sign",
+				"and",
+				"retweet",
+				"httpstcovd0zzobnol"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015832114237440",
+		"screenname": "yvonneherman9",
+		"name": "MeltyMerGalactic",
+		"created_at": "Wed Nov 16 22:26:34 +0000 2016",
+		"text": "RT @ezlusztig: Hillary Clinton's popular vote margin crossed the 1 MILLION mark yesterday.\n\nAbolish the electoral college.\n\n#NotMyPresident",
+		"sentiment": {
+			"score": 3,
+			"comparative": 0.1875,
+			"tokens": [
+				"rt",
+				"ezlusztig",
+				"hillary",
+				"clinton's",
+				"popular",
+				"vote",
+				"margin",
+				"crossed",
+				"the",
+				"1",
+				"million",
+				"mark",
+				"yesterdayabolish",
+				"the",
+				"electoral",
+				"collegenotmypresident"
+			],
+			"words": [
+				"popular"
+			],
+			"positive": [
+				"popular"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015831925641217",
+		"screenname": "RuthSorbello",
+		"name": "Ruth Sorbello",
+		"created_at": "Wed Nov 16 22:26:33 +0000 2016",
+		"text": "RT @thenation: Hillary Clinton’s Popular-Vote Victory Is Unprecedented—and Still Growing https://t.co/uSUqWoEC51",
+		"sentiment": {
+			"score": 4,
+			"comparative": 0.36363636363636365,
+			"tokens": [
+				"rt",
+				"thenation",
+				"hillary",
+				"clintons",
+				"popular-vote",
+				"victory",
+				"is",
+				"unprecedentedand",
+				"still",
+				"growing",
+				"httpstcousuqwoec51"
+			],
+			"words": [
+				"growing",
+				"victory"
+			],
+			"positive": [
+				"growing",
+				"victory"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015830143062016",
+		"screenname": "SOLOMONOFZION",
+		"name": "✡S.YERUSHALAYIM✡",
+		"created_at": "Wed Nov 16 22:26:33 +0000 2016",
+		"text": "RT @HeyTammyBruce: This week's column: \"‘It’s not her fault!’: Hillary Clinton looks for excuses, ignores her party’s failings\" https://t.c…",
+		"sentiment": {
+			"score": -1,
+			"comparative": -0.05263157894736842,
+			"tokens": [
+				"rt",
+				"heytammybruce",
+				"this",
+				"week's",
+				"column",
+				"its",
+				"not",
+				"her",
+				"fault",
+				"hillary",
+				"clinton",
+				"looks",
+				"for",
+				"excuses",
+				"ignores",
+				"her",
+				"partys",
+				"failings",
+				"httpstc"
+			],
+			"words": [
+				"ignores"
+			],
+			"positive": [],
+			"negative": [
+				"ignores"
+			]
+		}
+	},
+	{
+		"id": "799015829790605312",
+		"screenname": "Gesuvius",
+		"name": "Gesuvius",
+		"created_at": "Wed Nov 16 22:26:33 +0000 2016",
+		"text": "RT @rossiyasport: Still no update on Eric Braverman the former Clinton Foundation ceo who hasn't said a word since October.",
+		"sentiment": {
+			"score": -1,
+			"comparative": -0.05,
+			"tokens": [
+				"rt",
+				"rossiyasport",
+				"still",
+				"no",
+				"update",
+				"on",
+				"eric",
+				"braverman",
+				"the",
+				"former",
+				"clinton",
+				"foundation",
+				"ceo",
+				"who",
+				"hasn't",
+				"said",
+				"a",
+				"word",
+				"since",
+				"october"
+			],
+			"words": [
+				"no"
+			],
+			"positive": [],
+			"negative": [
+				"no"
+			]
+		}
+	},
+	{
+		"id": "799015829383745537",
+		"screenname": "Richard_David16",
+		"name": "Richard David",
+		"created_at": "Wed Nov 16 22:26:33 +0000 2016",
+		"text": "@townhallcom OF RTHEYLL NEVER GRILL HILLARY..THEY WELCOME..HER HEY AND THE WAY WHY THEY STILL CALLING HER SECRETARY CLINTON??? HMMM",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"townhallcom",
+				"of",
+				"rtheyll",
+				"never",
+				"grill",
+				"hillarythey",
+				"welcomeher",
+				"hey",
+				"and",
+				"the",
+				"way",
+				"why",
+				"they",
+				"still",
+				"calling",
+				"her",
+				"secretary",
+				"clinton",
+				"hmmm"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015828020744192",
+		"screenname": "audramooncoffee",
+		"name": "pulp culture",
+		"created_at": "Wed Nov 16 22:26:33 +0000 2016",
+		"text": "RT @goldengateblond: Pop quiz for everyone who said Clinton and Trump were exactly the same: Which white supremacist would she have hired?",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"goldengateblond",
+				"pop",
+				"quiz",
+				"for",
+				"everyone",
+				"who",
+				"said",
+				"clinton",
+				"and",
+				"trump",
+				"were",
+				"exactly",
+				"the",
+				"same",
+				"which",
+				"white",
+				"supremacist",
+				"would",
+				"she",
+				"have",
+				"hired"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015826258948096",
+		"screenname": "BoffleSpoffle",
+		"name": "BoffleSpoffle",
+		"created_at": "Wed Nov 16 22:26:32 +0000 2016",
+		"text": "RT @Khanoisseur: With a million plus vote lead, Clinton's popular vote win is unprecedented\n\nNever has so big a PV victory been trumped by…",
+		"sentiment": {
+			"score": 11,
+			"comparative": 0.4782608695652174,
+			"tokens": [
+				"rt",
+				"khanoisseur",
+				"with",
+				"a",
+				"million",
+				"plus",
+				"vote",
+				"lead",
+				"clinton's",
+				"popular",
+				"vote",
+				"win",
+				"is",
+				"unprecedentednever",
+				"has",
+				"so",
+				"big",
+				"a",
+				"pv",
+				"victory",
+				"been",
+				"trumped",
+				"by"
+			],
+			"words": [
+				"victory",
+				"big",
+				"win",
+				"popular"
+			],
+			"positive": [
+				"victory",
+				"big",
+				"win",
+				"popular"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015824698712064",
+		"screenname": "TheBoobla",
+		"name": "Adam Kendall",
+		"created_at": "Wed Nov 16 22:26:32 +0000 2016",
+		"text": "RT @BenjaminNorton: Here's Jamelle Bouie—the same pro-Clinton pundit who is still attacking Sanders—one year ago\nhttps://t.co/nAjlzffJ6Q (h…",
+		"sentiment": {
+			"score": -1,
+			"comparative": -0.0625,
+			"tokens": [
+				"rt",
+				"benjaminnorton",
+				"here's",
+				"jamelle",
+				"bouiethe",
+				"same",
+				"pro-clinton",
+				"pundit",
+				"who",
+				"is",
+				"still",
+				"attacking",
+				"sandersone",
+				"year",
+				"agohttpstconajlzffj6q",
+				"h"
+			],
+			"words": [
+				"attacking"
+			],
+			"positive": [],
+			"negative": [
+				"attacking"
+			]
+		}
+	},
+	{
+		"id": "799015824547860480",
+		"screenname": "chad_kemp",
+		"name": "Chad Kemp",
+		"created_at": "Wed Nov 16 22:26:32 +0000 2016",
+		"text": "RT @TimJGraham: NBC News files another story with outrage over \"fake news,\" fails to mention the entire \"fake news\" career of Chelsea Clint…",
+		"sentiment": {
+			"score": -11,
+			"comparative": -0.4782608695652174,
+			"tokens": [
+				"rt",
+				"timjgraham",
+				"nbc",
+				"news",
+				"files",
+				"another",
+				"story",
+				"with",
+				"outrage",
+				"over",
+				"fake",
+				"news",
+				"fails",
+				"to",
+				"mention",
+				"the",
+				"entire",
+				"fake",
+				"news",
+				"career",
+				"of",
+				"chelsea",
+				"clint"
+			],
+			"words": [
+				"fake",
+				"fails",
+				"fake",
+				"outrage"
+			],
+			"positive": [],
+			"negative": [
+				"fake",
+				"fails",
+				"fake",
+				"outrage"
+			]
+		}
+	},
+	{
+		"id": "799015823482372096",
+		"screenname": "21briwat",
+		"name": "Zeke A. Vyross",
+		"created_at": "Wed Nov 16 22:26:31 +0000 2016",
+		"text": "RT @TheDailyEdge: Trump finishes distant third in 2016 Presidential Election. Final result:\n1. Didn't vote \n2. Clinton\n3. Trump",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"thedailyedge",
+				"trump",
+				"finishes",
+				"distant",
+				"third",
+				"in",
+				"2016",
+				"presidential",
+				"election",
+				"final",
+				"result1",
+				"didn't",
+				"vote",
+				"2",
+				"clinton3",
+				"trump"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015822513545217",
+		"screenname": "1516Emily",
+		"name": "Emily",
+		"created_at": "Wed Nov 16 22:26:31 +0000 2016",
+		"text": "RT @RWSalt: DID YOU KNOW Hillary Became PHYSICALLY VIOLENT on Election Night?  https://t.co/WZADN4tVPl #america #tiot",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.1875,
+			"tokens": [
+				"rt",
+				"rwsalt",
+				"did",
+				"you",
+				"know",
+				"hillary",
+				"became",
+				"physically",
+				"violent",
+				"on",
+				"election",
+				"night",
+				"",
+				"httpstcowzadn4tvpl",
+				"america",
+				"tiot"
+			],
+			"words": [
+				"",
+				"violent"
+			],
+			"positive": [],
+			"negative": [
+				"violent"
+			]
+		}
+	},
+	{
+		"id": "799015822479880192",
+		"screenname": "nikhilarundesai",
+		"name": "Nikhil Desai",
+		"created_at": "Wed Nov 16 22:26:31 +0000 2016",
+		"text": "RT @mattdpearce: You'll Never Believe This Gonzo Theory About How Clinton Actually Lost The Popular Vote — Because It's Not Real https://t.…",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"mattdpearce",
+				"you'll",
+				"never",
+				"believe",
+				"this",
+				"gonzo",
+				"theory",
+				"about",
+				"how",
+				"clinton",
+				"actually",
+				"lost",
+				"the",
+				"popular",
+				"vote",
+				"",
+				"because",
+				"it's",
+				"not",
+				"real",
+				"httpst"
+			],
+			"words": [
+				"",
+				"popular",
+				"lost"
+			],
+			"positive": [
+				"popular"
+			],
+			"negative": [
+				"lost"
+			]
+		}
+	},
+	{
+		"id": "799015821586681864",
+		"screenname": "Yvonne2016MAGA",
+		"name": "🇺🇸 yvonne burton",
+		"created_at": "Wed Nov 16 22:26:31 +0000 2016",
+		"text": "RT @bigopinion123: @thecrimson Please explain why John Podesta, Clinton's campaign manager, was involved in THIS ! ! !  https://t.co/eNpPxh…",
+		"sentiment": {
+			"score": 1,
+			"comparative": 0.05,
+			"tokens": [
+				"rt",
+				"bigopinion123",
+				"thecrimson",
+				"please",
+				"explain",
+				"why",
+				"john",
+				"podesta",
+				"clinton's",
+				"campaign",
+				"manager",
+				"was",
+				"involved",
+				"in",
+				"this",
+				"",
+				"",
+				"",
+				"",
+				"httpstcoenppxh"
+			],
+			"words": [
+				"",
+				"",
+				"",
+				"",
+				"please"
+			],
+			"positive": [
+				"please"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015821414539264",
+		"screenname": "teyllan",
+		"name": "human race",
+		"created_at": "Wed Nov 16 22:26:31 +0000 2016",
+		"text": "Obama, Clinton, and Sanders Could Stop the Riots But They Just Watch https://t.co/1JCU6b64lT",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.23076923076923078,
+			"tokens": [
+				"obama",
+				"clinton",
+				"and",
+				"sanders",
+				"could",
+				"stop",
+				"the",
+				"riots",
+				"but",
+				"they",
+				"just",
+				"watch",
+				"httpstco1jcu6b64lt"
+			],
+			"words": [
+				"riots",
+				"stop"
+			],
+			"positive": [],
+			"negative": [
+				"riots",
+				"stop"
+			]
+		}
+	},
+	{
+		"id": "799015820999479296",
+		"screenname": "dnauerbach13",
+		"name": "#BringBernieBack13",
+		"created_at": "Wed Nov 16 22:26:31 +0000 2016",
+		"text": "The Clinton campaign was undone by its own neglect -- and a touch of arrogance, staffers say https://t.co/6qFOClgFSc via @HuffPostPol",
+		"sentiment": {
+			"score": -2,
+			"comparative": -0.1,
+			"tokens": [
+				"the",
+				"clinton",
+				"campaign",
+				"was",
+				"undone",
+				"by",
+				"its",
+				"own",
+				"neglect",
+				"--",
+				"and",
+				"a",
+				"touch",
+				"of",
+				"arrogance",
+				"staffers",
+				"say",
+				"httpstco6qfoclgfsc",
+				"via",
+				"huffpostpol"
+			],
+			"words": [
+				"neglect"
+			],
+			"positive": [],
+			"negative": [
+				"neglect"
+			]
+		}
+	},
+	{
+		"id": "799015820793880576",
+		"screenname": "SquarePegDem",
+		"name": "Michael Benjamin",
+		"created_at": "Wed Nov 16 22:26:31 +0000 2016",
+		"text": "@PrimeNewYork @EFettmann But you're okay w/ Bill Clinton assuming the presidency despite only winning 43% of the vote but 370 EC votes, eh?",
+		"sentiment": {
+			"score": 4,
+			"comparative": 0.17391304347826086,
+			"tokens": [
+				"primenewyork",
+				"efettmann",
+				"but",
+				"you're",
+				"okay",
+				"w",
+				"bill",
+				"clinton",
+				"assuming",
+				"the",
+				"presidency",
+				"despite",
+				"only",
+				"winning",
+				"43",
+				"of",
+				"the",
+				"vote",
+				"but",
+				"370",
+				"ec",
+				"votes",
+				"eh"
+			],
+			"words": [
+				"winning"
+			],
+			"positive": [
+				"winning"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015820072390656",
+		"screenname": "Catslawrence",
+		"name": "Jo Ann",
+		"created_at": "Wed Nov 16 22:26:31 +0000 2016",
+		"text": "RT @Mediaite: Clinton Strategist Karen Finney Blames Election Loss on Sexism from 'Bernie Bros' https://t.co/OzbntDE1PX (VIDEO) https://t.c…",
+		"sentiment": {
+			"score": -5,
+			"comparative": -0.29411764705882354,
+			"tokens": [
+				"rt",
+				"mediaite",
+				"clinton",
+				"strategist",
+				"karen",
+				"finney",
+				"blames",
+				"election",
+				"loss",
+				"on",
+				"sexism",
+				"from",
+				"'bernie",
+				"bros'",
+				"httpstcoozbntde1px",
+				"video",
+				"httpstc"
+			],
+			"words": [
+				"loss",
+				"blames"
+			],
+			"positive": [],
+			"negative": [
+				"loss",
+				"blames"
+			]
+		}
+	},
+	{
+		"id": "799015819086876672",
+		"screenname": "DrJalapeno",
+		"name": "Angelo Jaramillo",
+		"created_at": "Wed Nov 16 22:26:30 +0000 2016",
+		"text": "RT @BenjaminNorton: Clinton apologists like Jamelle Bouie were wrong about everything, helped get Trump elected, &amp; continue to be just as w…",
+		"sentiment": {
+			"score": 0,
+			"comparative": 0,
+			"tokens": [
+				"rt",
+				"benjaminnorton",
+				"clinton",
+				"apologists",
+				"like",
+				"jamelle",
+				"bouie",
+				"were",
+				"wrong",
+				"about",
+				"everything",
+				"helped",
+				"get",
+				"trump",
+				"elected",
+				"amp",
+				"continue",
+				"to",
+				"be",
+				"just",
+				"as",
+				"w"
+			],
+			"words": [
+				"wrong",
+				"like"
+			],
+			"positive": [
+				"like"
+			],
+			"negative": [
+				"wrong"
+			]
+		}
+	},
+	{
+		"id": "799015816339464192",
+		"screenname": "IndigoHawthorne",
+		"name": "Angel",
+		"created_at": "Wed Nov 16 22:26:30 +0000 2016",
+		"text": "RT @agreatercountry: Google was part of Hillary team. Their power, brilliance couldn't lose. Could We The People be stronger, smarter?\n\nhtt…",
+		"sentiment": {
+			"score": 5,
+			"comparative": 0.25,
+			"tokens": [
+				"rt",
+				"agreatercountry",
+				"google",
+				"was",
+				"part",
+				"of",
+				"hillary",
+				"team",
+				"their",
+				"power",
+				"brilliance",
+				"couldn't",
+				"lose",
+				"could",
+				"we",
+				"the",
+				"people",
+				"be",
+				"stronger",
+				"smarterhtt"
+			],
+			"words": [
+				"stronger",
+				"brilliance"
+			],
+			"positive": [
+				"stronger",
+				"brilliance"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015813391011843",
+		"screenname": "LL07CJSANFRAN",
+		"name": "Dawn Lee",
+		"created_at": "Wed Nov 16 22:26:29 +0000 2016",
+		"text": "@CNN  Yes it is, u should know! Fake, made up, twisted news!  Ur pals the Clinton's are not coming back so get over… https://t.co/fU7s61Fmje",
+		"sentiment": {
+			"score": -2,
+			"comparative": -0.07692307692307693,
+			"tokens": [
+				"cnn",
+				"",
+				"yes",
+				"it",
+				"is",
+				"u",
+				"should",
+				"know",
+				"fake",
+				"made",
+				"up",
+				"twisted",
+				"news",
+				"",
+				"ur",
+				"pals",
+				"the",
+				"clinton's",
+				"are",
+				"not",
+				"coming",
+				"back",
+				"so",
+				"get",
+				"over",
+				"httpstcofu7s61fmje"
+			],
+			"words": [
+				"",
+				"fake",
+				"yes",
+				""
+			],
+			"positive": [
+				"yes"
+			],
+			"negative": [
+				"fake"
+			]
+		}
+	},
+	{
+		"id": "799015810404478976",
+		"screenname": "DanHF",
+		"name": "Dan Hassler-Forest",
+		"created_at": "Wed Nov 16 22:26:28 +0000 2016",
+		"text": "RT @Khanoisseur: With a million plus vote lead, Clinton's popular vote win is unprecedented\n\nNever has so big a PV victory been trumped by…",
+		"sentiment": {
+			"score": 11,
+			"comparative": 0.4782608695652174,
+			"tokens": [
+				"rt",
+				"khanoisseur",
+				"with",
+				"a",
+				"million",
+				"plus",
+				"vote",
+				"lead",
+				"clinton's",
+				"popular",
+				"vote",
+				"win",
+				"is",
+				"unprecedentednever",
+				"has",
+				"so",
+				"big",
+				"a",
+				"pv",
+				"victory",
+				"been",
+				"trumped",
+				"by"
+			],
+			"words": [
+				"victory",
+				"big",
+				"win",
+				"popular"
+			],
+			"positive": [
+				"victory",
+				"big",
+				"win",
+				"popular"
+			],
+			"negative": []
+		}
+	},
+	{
+		"id": "799015809808859140",
+		"screenname": "BallSixOFour",
+		"name": "Ball from VanCity",
+		"created_at": "Wed Nov 16 22:26:28 +0000 2016",
+		"text": "Pay for Play with greasy offshore  interests just got Clinton unelected. TrudeauCo. mistaken to ignore… https://t.co/xHFa4IKaAz",
+		"sentiment": {
+			"score": -3,
+			"comparative": -0.17647058823529413,
+			"tokens": [
+				"pay",
+				"for",
+				"play",
+				"with",
+				"greasy",
+				"offshore",
+				"",
+				"interests",
+				"just",
+				"got",
+				"clinton",
+				"unelected",
+				"trudeauco",
+				"mistaken",
+				"to",
+				"ignore",
+				"httpstcoxhfa4ikaaz"
+			],
+			"words": [
+				"ignore",
+				"mistaken",
+				"interests",
+				"",
+				"pay"
+			],
+			"positive": [
+				"interests"
+			],
+			"negative": [
+				"ignore",
+				"mistaken",
+				"pay"
+			]
+		}
+	}
+]

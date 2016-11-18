@@ -1,0 +1,17 @@
+{
+  "name": "twibot",
+  "version": "1.0.0",
+  "description": "just a twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arul Peter",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.0.3",
+    "jsonfile": "^2.4.0",
+    "twit": "^2.2.5"
+  }
+}
